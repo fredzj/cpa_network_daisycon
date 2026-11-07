@@ -1,0 +1,14 @@
+# Local configuration with credentials (copy config.example.php to config.php)
+config.php
+
+# OAuth tokens written by auth_setup.php
+tokens.json
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
